@@ -3,6 +3,7 @@ ios-lightbox
 
 An iOS implementation of a basic lightbox for images.
 
+<img src="https://dl.dropbox.com/s/0du90jlao0hho86/Screen%20Shot%202013-02-12%20at%2011.06.15%20AM.png" />
 
 Usage
 =====
