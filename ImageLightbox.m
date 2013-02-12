@@ -35,7 +35,7 @@
  
  tapRecognize = [[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(hideImage)];
  
- UIImage *eImage = [[UIImage alloc] initWithContentsOfFile:imageUrl]
+ UIImage *eImage = [[UIImage alloc] initWithContentsOfFile:imageUrl];
  
  
  image = [[UIImageView alloc] initWithImage:eImage];
